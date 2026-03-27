@@ -88,6 +88,7 @@ pip install -r requirements.txt
 
 # Run Streamlit dashboard
 streamlit run app.py
+```bash
 ---
 ## 👨‍💻 Author
 
