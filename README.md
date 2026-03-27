@@ -80,7 +80,7 @@ This project demonstrates a complete **data analytics pipeline**, including:
 ## ▶️ How to Run
 
     # Clone the repository
-    git clone https://github.com/YOUR_USERNAME/phonepe-pulse-analysis.git
+    git clone https://github.com/prajwall20/phonepe-pulse-analysis.git
 
     # Navigate into the project folder
     cd phonepe-pulse-analysis
