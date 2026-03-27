@@ -79,17 +79,20 @@ This project demonstrates a complete **data analytics pipeline**, including:
 ---
 ## ▶️ How to Run
 
-```bash
-# Clone the repository
-git clone https://github.com/YOUR_USERNAME/phonepe-pulse-analysis.git
+    # Clone the repository
+    git clone https://github.com/YOUR_USERNAME/phonepe-pulse-analysis.git
 
-# Install dependencies
-pip install -r requirements.txt
+    # Navigate into the project folder
+    cd phonepe-pulse-analysis
 
-# Run Streamlit dashboard
-streamlit run app.py
-```bash
+    # Install required dependencies
+    pip install -r requirements.txt
+
+    # Run the Streamlit dashboard
+    streamlit run app.py
+
 ---
+
 ## 👨‍💻 Author
 
 <p align="center">
@@ -105,8 +108,8 @@ streamlit run app.py
 
 ✨ Passionate about transforming raw data into meaningful insights  
 📊 Skilled in Data Analysis, Visualization & Dashboard Development  
-💡 Always exploring real-world problems through data  
+💡 Exploring real-world problems through data-driven solutions  
 
 ---
 
-> "Turning data into decisions, and decisions into impact."
+> *"Turning data into decisions, and decisions into impact."*
