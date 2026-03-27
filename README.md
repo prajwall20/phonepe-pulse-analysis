@@ -75,6 +75,19 @@ This project demonstrates a complete **data analytics pipeline**, including:
 - 📢 Supports **targeted marketing strategies**
 - 🛡️ Highlights opportunities in **insurance adoption**
 
+
+---
+## ▶️ How to Run
+
+```bash
+# Clone the repository
+git clone https://github.com/YOUR_USERNAME/phonepe-pulse-analysis.git
+
+# Install dependencies
+pip install -r requirements.txt
+
+# Run Streamlit dashboard
+streamlit run app.py
 ---
 ## 👨‍💻 Author
 
@@ -96,15 +109,3 @@ This project demonstrates a complete **data analytics pipeline**, including:
 ---
 
 > "Turning data into decisions, and decisions into impact."
----
-## ▶️ How to Run
-
-```bash
-# Clone the repository
-git clone https://github.com/YOUR_USERNAME/phonepe-pulse-analysis.git
-
-# Install dependencies
-pip install -r requirements.txt
-
-# Run Streamlit dashboard
-streamlit run app.py
