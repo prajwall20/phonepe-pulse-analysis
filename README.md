@@ -76,7 +76,27 @@ This project demonstrates a complete **data analytics pipeline**, including:
 - 🛡️ Highlights opportunities in **insurance adoption**
 
 ---
+## 👨‍💻 Author
 
+<p align="center">
+  <b>Prajwal S</b> 🚀 <br>
+  <i>Data Enthusiast | Aspiring Data Analyst</i>
+</p>
+
+---
+
+📧 **Email:** prajjuprajwal617@gmail.com  
+
+---
+
+✨ Passionate about transforming raw data into meaningful insights  
+📊 Skilled in Data Analysis, Visualization & Dashboard Development  
+💡 Always exploring real-world problems through data  
+
+---
+
+> "Turning data into decisions, and decisions into impact."
+---
 ## ▶️ How to Run
 
 ```bash
